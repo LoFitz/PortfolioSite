@@ -28,16 +28,12 @@ class Main extends React.Component {
           }`}
           style={{ display: 'none' }}
         >
-          <h2 className="major">Intro</h2>
+          <h2 className="major">Fart</h2>
           <span className="image main">
             <img src={pic01} alt="" />
           </span>
           <p>
-            Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin
-            aliquam facilisis ante interdum congue. Integer mollis, nisl amet
-            convallis, porttitor magna ullamcorper, amet egestas mauris. Ut
-            magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas.
-            By the way, check out my <a href="#work">awesome work</a>.
+           I like to fart!!!
           </p>
           <p>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis
